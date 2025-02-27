@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Wei</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=weilocus&label=Profile%20views&color=0e75b6&style=flat" alt="weilocus" /> </p>
+![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Frameworks](https://img.shields.io/badge/Frameworks-Vue.js%20%7C%20React-green?style=flat&logo=vue.js&logoColor=42b883)
+![OS](https://img.shields.io/badge/OS-macOS-blue?style=flat&logo=apple)
+<p><img src="https://komarev.com/ghpvc/?username=weilocus&label=Profile%20views&color=0e75b6&style=flat" alt="weilocus" /> </p>
+
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **React,JavaScript,HTML,CSS,express**
+- 🔭 I’m a front-end developer currently working in Tainan. I specialize in building modern web applications using Vue.js and React.
 
-- 📝 I regularly write articles on [https://hackmd.io/@weii](https://hackmd.io/@weii)
+- 📝 You can find my articles here [Medium](https://medium.com/@marsuo52_70945)
 
-- 📫 How to reach me **marsuo52@gmail.com**
+- 📫 **marsuo52@gmail.com**
 
-- ⚡ Fun fact :**ENSJ personality type. I have a talent for making the people in their lives feel supported, cared for, and secure.**
+- ⚡ **ENSJ personality type. I have a talent for making the people in their lives feel supported, cared for, and secure.**
 
 - 🗣  Growth mindset 
 
@@ -31,12 +35,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,sass,express,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,javascript,html,css,tailwind,bootstrap,sass,nodejs&theme=dark)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weilocus&show_icons=true&locale=en" alt="weilocus" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weilocus&show_icons=true&locale=en&layout=compact" alt="weilocus" /></p>
-
-
 
 
 
